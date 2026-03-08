@@ -28,10 +28,7 @@ export const experienceData: Experience[] = [
 		location: "Jakarta, Indonesia",
 		company: "Samsung Research Indonesia",
 		description: [
-			"Currently leading a team of software engineers to develop and maintain 3 concurrent server-side applications for the Samsung Smart TV platform (Daily+, Now Brief, Privacy Center).",
-			"Defined technical roadmap and AWS architecture for the team, ensuring on-time delivery of features while maintaining system reliability, global scalability, and cost-efficiency.",
-			"Standardized technical documentation process by incorporating architectural design records (ADRs) onto the core development flow, which was adopted by multiple development teams within the organization.",
-			"Architected and implemented the migration of manually provisioned cloud resources to Infrastructure-as-Code (IaC) using AWS Cloud Development Kit (CDK) with TypeScript, improving deployment velocity and reducing manual errors.",
+			"Currently leading a team of software engineers to develop and maintain multiple server-side applications.",
 		],
 		skill: ["Technical Project Leadership", "Infrastructure-as-Code", "AWS", "Spring Boot", "React"],
 		duration: "Sep 2024 - Present",
@@ -42,9 +39,7 @@ export const experienceData: Experience[] = [
 		company: "Samsung Research Indonesia",
 		location: "Jakarta, Indonesia",
 		description: [
-			"Responsible for developing and maintaining the A/B testing platform for Samsung Smart TV servers.",
-			"Developed a core feature that reduces boilerplate A/B test configurations in the internal CMS app using React and Spring Boot, reducing setup time for key product teams.",
-			"Implemented a subset of automated end-to-end (E2E) tests using Cypress for internal CMS app, reducing the time spent on manual regression testing by ~2 hours per release cycle.",
+			"Responsible for developing and maintaining full-stack applications.",
 		],
 		skill: ["AWS", "Spring Boot", "React", "Java", "TypeScript"],
 		duration: "Apr 2023 - Sep 2024",
